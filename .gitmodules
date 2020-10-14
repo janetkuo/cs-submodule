@@ -3,4 +3,4 @@
 	url = git@github.com:willbeason/cs-submodule.git
 [submodule "cs-submodule-2"]
 	path = namespaces/foo
-	url = git@github.com:willbeason/cs-submodule-2.git
+	url = https://github.com/willbeason/cs-submodule-2.git
